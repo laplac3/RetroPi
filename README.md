@@ -1,2 +1,1 @@
-1. sudo ./ffmpeg-install.sh
-2. ./ffmpeg-enable.sh
+sudo ./ffmpeg-install.sh
