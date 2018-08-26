@@ -1,1 +1,1 @@
-sudo ./ffmpeg-install.sh
+./setupPi.sh
