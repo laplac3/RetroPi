@@ -1,7 +1,8 @@
 #!/bin/bash
 
 #bin cmds
-sudo apt -y install vim tmux sysbench
+sudo apt install vim tmux sysbench -y
+sudo apt upgrade -y
 
 #Install ffmpeg
 sudo ./ffmpeg-install.sh
